@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio workspace files
+.idea/
+
+# Generated files
+*.iml
+*.iws
+*.ipr
+
+# User-specific files
+.gradle
